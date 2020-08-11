@@ -1,2 +1,2 @@
 # Heavy-Metal-Data-Collection
-Scrapping data from Wikipedia and retrieving via Spotify's API
+Collecting data: Scrapping from Wikipedia and retrieving via Spotify's API
